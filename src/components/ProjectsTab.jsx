@@ -219,9 +219,9 @@ export default function ProjectsTab() {
                 <span className="px-2.5 py-1 bg-academic-sidebar text-academic-blue text-xs font-bold rounded uppercase tracking-wide border border-academic-border">
                   {project.chapter}
                 </span>
-                <span className="px-2 py-1 bg-amber-50 text-amber-600 text-xs font-semibold rounded border border-amber-100 flex items-center gap-1">
-                  <span className="w-1.5 h-1.5 bg-amber-500 rounded-full animate-pulse"></span>
-                  Đang HT
+                <span className="px-2 py-1 bg-green-50 text-amber-600 text-xs font-semibold rounded border border-amber-100 flex items-center gap-1">
+                  <span className="w-1.5 h-1.5 bg-green-500 rounded-full animate-pulse"></span>
+                  Hoàn Thiện
                 </span>
               </div>
               <h3 className="text-xl font-bold text-slate-800 mb-2 line-clamp-2">{project.title}</h3>
