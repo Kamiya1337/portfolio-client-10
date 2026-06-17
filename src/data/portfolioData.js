@@ -2,7 +2,7 @@ import { FolderTree, Search, MessageSquare, Users, PenTool, ShieldCheck, Languag
 
 export const portfolioData = {
   student: {
-    name: "Phan Thị Huyền Trang",
+    name: "Phạm Yến Vân",
     id: "K70",
     major: "Ngôn ngữ và Văn hóa Hàn Quốc",
     university: "Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội (ULIS - VNU)",
