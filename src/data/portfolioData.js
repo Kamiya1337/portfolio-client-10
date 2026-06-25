@@ -3,7 +3,7 @@ import { FolderTree, Search, MessageSquare, Users, PenTool, ShieldCheck, Languag
 export const portfolioData = {
   student: {
     name: "Phạm Yến Vân",
-    id: "K70",
+    id: "K59",
     major: "Ngôn ngữ và Văn hóa Hàn Quốc",
     university: "Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội (ULIS - VNU)",
     bio: "Portfolio nhằm lưu trữ, hệ thống hóa các sản phẩm học tập đã thực hiện trong học phần, đồng thời thể hiện quá trình phát triển kiến thức, kỹ năng số và làm cơ sở theo dõi sự tiến bộ của bản thân trong tương lai.",
@@ -28,7 +28,7 @@ export const portfolioData = {
       target: "Trình bày cấu trúc thư mục tối ưu và quy tắc đặt tên tệp đã thiết lập.",
       process: "Phân tích nhu cầu lưu trữ học tập, thiết lập cây thư mục theo môn học/kỳ học. Áp dụng quy tắc đặt tên file không dấu, dùng gạch dưới để dễ dàng tìm kiếm. Đồng bộ hóa với Google Drive.",
       evidenceImg: "/images/Bài 1.png",
-      driveLink: "https://drive.google.com/drive/folders/1X5PpeZd0bzTjvxo6A3lM8cc6QlCIBfUP",
+      driveLink: "https://drive.google.com/drive/folders/1gNQstzNERKdBuIU0ylQ7nTJC1GeU4NWQ",
       report: "/docs/Bài 1.pdf",
       status: "Đang hoàn thiện"
     },
@@ -41,7 +41,7 @@ export const portfolioData = {
       target: "Trình bày kết quả tìm kiếm học thuật bằng các toán tử nâng cao và bảng đánh giá nguồn tin.",
       process: "Sử dụng Google Scholar kết hợp các toán tử (AND, OR, filetype:pdf) để tìm tài liệu về thiết kế vi mạch. Lọc và đánh giá 3 nguồn tài liệu dựa trên 5 tiêu chí CRAAP (Độ mới, Mức độ phù hợp, Thẩm quyền, Độ chính xác, Mục đích).",
       evidenceImg: "/images/Bài 2.png",
-      driveLink: "https://drive.google.com/drive/folders/1w15ookPVooLvY4KtXKAOtYdOSktVfQVW",
+      driveLink: "https://drive.google.com/drive/folders/1gNQstzNERKdBuIU0ylQ7nTJC1GeU4NWQ",
       report: "/docs/Bài 2.pdf",
       status: "Đang hoàn thiện"
     },
@@ -54,7 +54,7 @@ export const portfolioData = {
       target: "So sánh giữa Prompt ban đầu và Prompt cải tiến cùng kết quả đầu ra từ AI.",
       process: "Thiết lập cấu trúc prompt bao gồm: Vai trò (Role), Ngữ cảnh (Context), Nhiệm vụ (Task) và Định dạng đầu ra (Format). Thử nghiệm nhờ AI giải thích một khái niệm vật lý bán dẫn và so sánh kết quả trước/sau khi tối ưu prompt.",
       evidenceImg: "/images/Bài 3.png",
-      driveLink: "https://drive.google.com/drive/folders/1aUg0SchZAcwc6YoiXwIcRIPwl6tT7qru",
+      driveLink: "https://drive.google.com/drive/folders/1gNQstzNERKdBuIU0ylQ7nTJC1GeU4NWQ",
       report: "/docs/Bài 3.pdf",
       status: "Đang hoàn thiện"
     },
@@ -67,7 +67,7 @@ export const portfolioData = {
       target: "Trình bày minh chứng về việc sử dụng công cụ quản lý dự án nhóm và cách phối hợp.",
       process: "Thiết lập không gian làm việc chung. Phân chia task rõ ràng, đặt deadline và theo dõi tiến độ qua bảng Kanban. Tổ chức họp nhóm qua Google Meet và ghi biên bản họp trực tuyến.",
       evidenceImg: "/images/Bài 4.png",
-      driveLink: "https://drive.google.com/drive/folders/1CwbQw_sDimCvRxl2-iWyICZHK2IUWKH7",
+      driveLink: "https://drive.google.com/drive/folders/1gNQstzNERKdBuIU0ylQ7nTJC1GeU4NWQ",
       report: "/docs/Bài 4.pdf",
       status: "Đang hoàn thiện"
     },
@@ -80,7 +80,7 @@ export const portfolioData = {
       target: "Trưng bày sản phẩm nội dung số hoàn thiện được hỗ trợ bởi AI.",
       process: "Lên ý tưởng kịch bản bằng Gemini Pro. Sử dụng các công cụ tạo sinh (Midjourney/D-ALL E hoặc Canva AI) để thiết kế hình ảnh minh họa cho một bài thuyết trình về công nghệ. Tinh chỉnh thiết kế thủ công để đạt độ hoàn thiện cao.",
       evidenceImg: "/images/Bài 5.png",
-      driveLink: "https://drive.google.com/drive/folders/1thtl6f55Y3F3c90J7EoxfTwvLLO3NAxn",
+      driveLink: "https://drive.google.com/drive/folders/1gNQstzNERKdBuIU0ylQ7nTJC1GeU4NWQ",
       report: "/docs/Bài 5.pdf",
       status: "Đang hoàn thiện"
     },
@@ -93,7 +93,7 @@ export const portfolioData = {
       target: "Trình bày bộ nguyên tắc cá nhân về sử dụng AI có trách nhiệm dựa trên các nghiên cứu.",
       process: "Nghiên cứu các quy định về đạo văn và liêm chính. Đúc kết bộ 5 nguyên tắc cá nhân: Luôn kiểm chứng thông tin do AI tạo ra, minh bạch công cụ sử dụng, không dùng AI để thi hộ/làm hộ 100%, bảo vệ dữ liệu cá nhân khi chat với AI, và tôn trọng bản quyền.",
       evidenceImg: "/images/Bài 6.png",
-      driveLink: "https://drive.google.com/drive/folders/1oWOLUvfcVFDsojzZlUNjmD6xxYcy8HjC?usp=sharing",
+      driveLink: "https://drive.google.com/drive/folders/1gNQstzNERKdBuIU0ylQ7nTJC1GeU4NWQ",
       report: "/docs/Bài 6.pdf",
       status: "Đang hoàn thiện"
     }
